@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Frame 3](https://github.com/Jayjerome/Task_manager_application/assets/42614202/068af056-f6ee-4d4b-a6f5-d070f666a18f)
 
 # Task Manager App
@@ -48,3 +49,7 @@ The LoadTaskFailure, AddTaskFailure, and UpdateTaskFailure states provide detail
 
 ### Unit Test
 Unit test has been integrated to test all functionalities from initial state to creating new task, updating task and deleting task
+=======
+# Task_Flow_App
+This application is designed to help users store, organize, and remember essential data and daily tasks. It uses Flutter and Dart for a beautiful, cross-platform UI. Data is managed efficiently using the high-performance Hive NoSQL database, and state is handled reliably with the Provider package.
+>>>>>>> fe44dd10285f87db204aa30898f63e82db7f1bff
